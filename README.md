@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/blMcm4j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/blMcm4j.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## App Brainstorming (Step 4)
